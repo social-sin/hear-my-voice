@@ -1,8 +1,8 @@
 ---
 object-id: armantrout
 title: Rae Armantrout (YouTube)
-date-interviewed: March 27, 2014
-location: San Diego, CA
+date-interviewed: June 2022
+location: Eugene, OR
 av_source: youtube
 audiovideo-id: BX_bURONf78
 ---
