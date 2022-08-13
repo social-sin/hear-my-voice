@@ -1,19 +1,14 @@
-# Oral History as Data
+This digital exhibition focuses on tiny slips of paper—senjafuda 千社札—that depict Japanese ghosts and monsters—yōkai 妖怪. Both senjafuda and yōkai have their roots in Japanese popular culture in the early modern period (17th-19th centuries), and both continue to cast a spell on viewers today.
 
-This is the Template Repository for the Oral History as Data Project. You can "Use This Template" to copy the contents of this project and replace them with your own.
+This site was made using [oralhistoryasdata.github.io](https://oralhistoryasdata.github.io/).
 
-Oral History as Data (OHD) provides a static web framework for users to publish and analyze coded oral history and qualitative interviews on the web. 
+View the [site](https://social-sin.github.io/hear-my-voice/).
 
-You might also check out the [a demo site](https://oralhistoryasdata.github.io/) for this project, which is a branch of this repository. 
+The site uses items from the Jordan Schnitzer Museum of Art's [Hear My Voice](https://jsma.uoregon.edu/HearMyVoice) project.
 
-Here is some [documentation to get you started](https://oralhistoryasdata.github.io/about.html#documentation). More fully developed documentation for this project is being developed, but there are several places linked here to get you started.
+Metadata is drawn from the following Google Sheet:
 
-### About Oral History as Data
-
-Oral History as Data was first built in 2018, coming out of work at the University of Idaho Library's [Center for Digital Inquiry and Learning (CD?L)](https://cdil.lib.uidaho.edu/). 
-The framework served as the foundation for several digital humanities projects, including [Voices of Gay Rodeo](https://www.voicesofgayrodeo.com/), [Idaho Queered](https://www.lib.uidaho.edu/queered/), and [CTRL+Shift](https://ctrl-shift.org/). 
-
-The project is closely related to the [CollectionBuilder](https://collectionbuilder.github.io/) project, and the current iteration was built on top of a CollectionBuilder-GH template. 
+- [Hear My Voice Metadata](https://docs.google.com/spreadsheets/d/1WnKHxT1zVdn8n8u5q_-DRSlZzKr0WHpVrApCwEvsnAE/edit?usp=sharing)
 
 
 
