@@ -15,8 +15,8 @@ This student exhibition was inspired by Hank Willis Thomas's “Truth Booth”, 
 
 I was also inspired to provide a steppingstone for future student-led exhibitions to be created by students, for students. Although the main purpose of portrait photography is to capture the essence of the model’s natural state and personality as the subject, the practice of portrait photography raises questions about the power dynamics between the photographer and model. To challenge the control of the environment and the construction of the model’s costume, I pulled away from photographic practices for this exhibition by recording student stories and converting them to spectrogram prints. This transition of control from curator/artist to students is not truly perfect but allows student participation to have more control over the narrative and works produced within the exhibition. I say that this transition isn’t truly perfect as I had to convert the audio recordings to spectrogram prints on behalf of students. However, the prints were produced by the students’ individual stories and voices allowing them to have more control over how they want to vocally express themselves and their stories. I hope this transition will inspire future student curators in providing a space for students to express their self-identity and to create their own individual works for future student exhibitions at the JSMA. 
 
-- Kayla Lockwood
-Lead Student Curator 
+***Kayla Lockwood
+Lead Student Curator***
 
 ## ACKNOWLEDGMENTS: 
 *Thank you to the Cheryl and Allyn Ford Endowment and Cooling fund for supporting students to work on this project. Thank you to Sam Berry (2023, PD BFA) for assisting in the curation of this project. Thank you to Malik Lovette (2024, M.Arch) and Lisa Abia-Smith (JSMA Director of Education/Senior Instructor I) for being mentors and advisors for this project.*
@@ -28,8 +28,8 @@ This year’s conversations were facilitated by Kayla Lockwood who has been on s
 
 This project represents the JSMA’s mission to create a space for students to connect with one another, to experience museums as agents of change and learn more about the world around us through the arts.  
 
-- Lisa Abia-Smith
-JSMA Director of Education/Senior Instructor I 
+***Lisa Abia-Smith
+JSMA Director of Education/Senior Instructor I***
 
 
 
