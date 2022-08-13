@@ -20,14 +20,15 @@ source-code: https://github.com/thecdil/oral-history-as-data
 # SITE SETTINGS
 #
 # title of site appears in banner
-title: Oral History (as) Data
+title: Hear My Voice
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: Analyze and publish coded oral history and qualitative interviews
+tagline: I think it’s a very crucial time where we need to hear from the public and less about the public.
+-Hank Willis Thomas
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
 description: "Lib-Static Oral History / Qualitative Interview Analysis Tool, Analyze and publish transcriptions with tagged csvs"
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
-author: dcnb
+author: Kayla Lockwood
 
 ##########
 # COLLECTION SETTINGS
