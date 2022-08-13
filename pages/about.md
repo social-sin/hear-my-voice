@@ -15,6 +15,7 @@ Four years ago, the JSMA's Education department created an annual program to eng
 
 This year's project, Hear My Voice, was led and curated by UO art students Kayla Lockwood (2022, ATCH BFA) Sam Berry (2023, PD BFA) and Malik Lovette (2024, M.Arch). The exhibition documents multiple community conversations with UO students, primarily students of color, and documents their experiences surrounding stereotyping with digital Spectrogram prints of their voices. The project team focused on empowering and representing each participants' authentic view of their identity with the critical and reflective dispositions that accompany their personal development.
 
+
 ## Curatorial Statement
 I was drawn to working with the JSMA for its contribution to the education of UO students by helping them become culturally competent global citizens. I was particularly drawn to the museum’s guiding principle of providing art education programs and collaborative opportunities to make the museum central to learning and building diverse audiences. I think this guiding principle is important to address as all academic institutions should be aware of their constituents and should engage in museum practices that allow access, inclusion, and representation of their constituents.  I see the Community Conversations program at the JSMA as a great opportunity for the student constituents to be involved in the development of a creative and vocalized student community within the institution. This type of programming is especially needed within academic museums as exhibitions and collections should reflect the academic interests of the institution it resides in as well as its student community by creating a space for student voices to be elevated and represented.
 
@@ -25,6 +26,7 @@ This student exhibition was inspired by Hank Willis Thomas's “Truth Booth”, 
 I was also inspired to provide a steppingstone for future student-led exhibitions to be created by students, for students. Although the main purpose of portrait photography is to capture the essence of the model’s natural state and personality as the subject, the practice of portrait photography raises questions about the power dynamics between the photographer and model. To challenge the control of the environment and the construction of the model’s costume, I pulled away from photographic practices for this exhibition by recording student stories and converting them to spectrogram prints. This transition of control from curator/artist to students is not truly perfect but allows student participation to have more control over the narrative and works produced within the exhibition. I say that this transition isn’t truly perfect as I had to convert the audio recordings to spectrogram prints on behalf of students. However, the prints were produced by the students’ individual stories and voices allowing them to have more control over how they want to vocally express themselves and their stories. I hope this transition will inspire future student curators in providing a space for students to express their self-identity and to create their own individual works for future student exhibitions at the JSMA. 
 
 ***- Kayla Lockwood***
+
 ***Lead Student Curator***
 
 
@@ -40,6 +42,7 @@ This year’s conversations were facilitated by Kayla Lockwood who has been on s
 This project represents the JSMA’s mission to create a space for students to connect with one another, to experience museums as agents of change and learn more about the world around us through the arts.
 
 ***- Lisa Abia-Smith***
+
 ***JSMA Director of Education/Senior Instructor I***
 
 
