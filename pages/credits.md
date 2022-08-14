@@ -9,9 +9,9 @@ credits: true
 
 <!-- {% include feature/nav-menu.html sections="About; Curatorial Statements; Acknowledgments; Copyright; Diversity, Inclusion, and Accessibility; Contact" %} -->
 
-*"I think it’s a very crucial time where we need to hear from the public and less about the public."*
+<div align="center">*"I think it’s a very crucial time where we need to hear from the public and less about the public."*</div>
 
-*- Hank Willis Thomas*
+<div align="center">*- Hank Willis Thomas*</div>
 
 ### About
 Four years ago, the JSMA's Education department created an annual program to engage UO students in conversations about race, identity, representation, and misrepresentation. The goal was to provide students with a space to create art and engage in dialogue about their experiences and fears as they navigate their lives as young adults. The projects begin with a conversation, then integrating art production and writing as part of the process before the program culminates in an exhibition.
