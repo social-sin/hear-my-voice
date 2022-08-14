@@ -3,92 +3,37 @@
     This allows you to override any CollectionBuilder or Bootstrap CSS without modifying the base theme files directly.
 */
 
-
-@media print {
-    
-    html, body {
-      height:100%; 
-      margin: 0 !important; 
-      padding: 0 !important;
-      overflow: visible;
-      display:block;
-      font-size: 1.2rem;
-    }
-
-    .transcript-content{
-        height:auto;
-        min-height:5000px;
-        overflow:visible;
-        display:block;
-    }
-  
-  }
-
-.grey {
-  color: grey;
- }
-
- .grey-small {
-    color: grey;
-    height: 3px;
-    line-height: 2px;
-    overflow: hidden;
+.about-narrow {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1000px;
+    padding-top: 70px;
 }
 
- .line.grey-small { 
-     .timestamp, .linenum {
-         display: none;
-     }
-     .words{
-    display: inline;
-    font-size: 3px;
-    padding: 0px 5px;}
+.about-imgpara {
+  margin-left: auto;
+  margin-right: auto;
+  max-width: auto;
+  padding-left: 10px;
 }
 
-.iframe-wrapper{
-position: fixed;
-  right: 10px;
-  height: 200px;
-  width: 370px;
-  transition: all 1s linear;
-  @include media-query($on-palm) {
-    bottom: 0px;
-    left: 0px;
-    height: auto;
-    width: 300px;
-    .meta{
-      display: none;
-    }
-    .vizdiv{
-      display: none;
-    }
-  }
+.title {
+  font-family: 'Hina Micho', serif;
 }
 
-.anchored-highlight p.words{background:aquamarine;}
-.featured{display:block;float:none; clear:both;}
-.linenum{ font-size:11px; float:left;width:auto;}
-.words{
-  @include media-query($on-palm) {min-width: 250px;}}
-
-
-.filteroptions, .searchinput{font-size:24px; 
-  @include media-query($on-palm) { font-size:18px;}}
-  
-
-
-.toggle_int:hover{color:pink}
-.toggle_int small{font-size:12px;}
-
-element {
-
-}
-.featured {
-
-    background-color: #dbf1fd !important;
-  color: black !important;
+p {
+  font-family: 'Roboto', sans-serif;
 }
 
-.btn-outline-dark:hover {
-  background-color: #212529 !important;
+.tagline {
+  font-family: 'Roboto', sans-serif;
+}
+
+h2 {
+  font-family: 'Hina Micho', serif;
+  font-size: 60px;
+}
+
+nav {
+  width:100%;
 }
