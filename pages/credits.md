@@ -8,7 +8,7 @@ credits: true
 ---
 
 
-{% include feature/nav-menu.html sections="About; Curatorial Statements; Acknowledgments; Copyright; Diversity, Inclusion, and Accessibility; Contact" %}
+<!-- {% include feature/nav-menu.html sections="About; Curatorial Statements; Acknowledgments; Copyright; Diversity, Inclusion, and Accessibility; Contact" %} -->
 
 ### About
 *"I think it’s a very crucial time where we need to hear from the public and less about the public."*
