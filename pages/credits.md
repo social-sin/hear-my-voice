@@ -7,6 +7,7 @@ permalink: /credits.html
 credits: true
 ---
 
+
 {% include feature/nav-menu.html sections="About; Curatorial Statements; Acknowledgments; Copyright; Diversity, Inclusion, and Accessibility; Contact" %}
 
 ### About
