@@ -3,7 +3,7 @@ object-id: caro
 title: Caro
 date-interviewed: June 2022
 location: Eugene, OR
-av_source: mp3
+av_source: google drive
 audiovideo-id: "https://drive.google.com/file/d/1Qtfq1LQaraqQs3tIegxFWF4-Tj1ssxpy/view?usp=sharing"
 ---
 
