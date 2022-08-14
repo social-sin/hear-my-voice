@@ -33,11 +33,11 @@
     height: 3px;
     line-height: 2px;
     overflow: hidden;
-}
+    }
 
  .line.grey-small { 
      .timestamp, .linenum {
-         display: none;   
+         display: none;
      }
      .words{
     display: inline;
@@ -63,8 +63,8 @@ position: fixed;
       display: none;
     }
   }
- }
- 
+  }
+
 .anchored-highlight p.words{background:aquamarine;}
 .featured{display:block;float:none; clear:both;}
 .linenum{ font-size:11px; float:left;width:auto;}
@@ -81,19 +81,11 @@ position: fixed;
 .toggle_int small{font-size:12px;}
 
 element {
-p {
-  font-family: 'Roboto', sans-serif;
-}
-
-.tagline {
-  font-family: 'Roboto', sans-serif;
 }
 .featured {
 
     background-color: #dbf1fd !important;
   color: black !important;
-  }
-
-.btn-outline-dark:hover {
+  .btn-outline-dark:hover {
   background-color: #212529 !important;
 } 
