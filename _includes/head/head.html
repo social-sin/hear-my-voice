@@ -39,6 +39,8 @@
 {% if site.noindex == true or page.noindex == true or layout.noindex == true %}<meta name="robots" content="noindex">{% endif %}
 {% include head/page-meta.html %}
 {% include head/analytics.html %}
+
 {% endif %}
+{% include head/filter-style.html %}
 
 <!-- Last build date: {{ site.time | date: "%Y-%m-%d" }} -->
