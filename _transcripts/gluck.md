@@ -1,8 +1,8 @@
 ---
 object-id: gluck
-title: Louise Glück (MP3)
-date-interviewed: May 15, 2014
-location: Cambridge, MA
+title: Caro
+date-interviewed: June 2022
+location: Eugene, OR
 av_source: mp3
 audiovideo-id: "https://www.devinbecker.org/mp3/gluck.mp3"
 ---
