@@ -5,7 +5,7 @@
 
 
 @media print {
-
+    
     html, body {
       height:100%; 
       margin: 0 !important; 
@@ -21,7 +21,7 @@
         overflow:visible;
         display:block;
     }
-
+  
   }
 
 .grey {
@@ -33,7 +33,7 @@
     height: 3px;
     line-height: 2px;
     overflow: hidden;
-    }
+}
 
  .line.grey-small { 
      .timestamp, .linenum {
@@ -43,7 +43,7 @@
     display: inline;
     font-size: 3px;
     padding: 0px 5px;}
-    }
+}
 
 .iframe-wrapper{
 position: fixed;
@@ -63,7 +63,7 @@ position: fixed;
       display: none;
     }
   }
-  }
+}
 
 .anchored-highlight p.words{background:aquamarine;}
 .featured{display:block;float:none; clear:both;}
@@ -74,18 +74,21 @@ position: fixed;
 
 .filteroptions, .searchinput{font-size:24px; 
   @include media-query($on-palm) { font-size:18px;}}
-
+  
 
 
 .toggle_int:hover{color:pink}
 .toggle_int small{font-size:12px;}
 
 element {
+
 }
 .featured {
 
     background-color: #dbf1fd !important;
   color: black !important;
-  .btn-outline-dark:hover {
+}
+
+.btn-outline-dark:hover {
   background-color: #212529 !important;
-} 
+}
