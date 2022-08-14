@@ -4,10 +4,11 @@
 
         <div class="col-md-7  px-4 mt-2">
 
+            <!--
             <h4><a href="{{ '/' | relative_url }}" class="text-white font-weight-normal">{{ site.title }}</a></h4>
             <p class="text-white"><small>{{ site.description }}</small></p>
             <nav>
-                <ul id="footer-nav" class="nav nav-pills ">
+                <ul class="nav nav-pills">
                     {%- assign navItems = site.data.config-nav | where_exp: 'item', 'item.dropdown_parent == nil' -%}
                     {% for nav in navItems %}
                     <li class="nav-item">
@@ -21,6 +22,12 @@
                     {%- endfor -%}
                 </ul>
             </nav>
+            -->
+            <h4 class="text-white font-weight-normal" Licensing</h4>
+            <p class="text-white"><small> This work is licensed under a <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-Sharealike 4.0 International License</a> to the University of Oregon, 2022.</small></p>
+            
+            <h5 class="text-white font-weight-normal" Sponsors</h4>
+                <p class="text-white"><small> The digital exhibition <i>Hear My Voice</i> is the result of a collaboration between <a href="https://www.instagram.com/tech.aesthetic/">Tech Aesthetic</a> and the <a href="http://jsma.uoregon.edu/">Jordan Schnitzer Museum of Art</a>, with support from The Cheryl and Allyn Ford Educational Outreach Endowment Fund and the Anne Cooling Student Impact Fund.</small></p>
 
         </div>
 
