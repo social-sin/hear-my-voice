@@ -1,4 +1,4 @@
-This digital exhibition focuses on tiny slips of paper—senjafuda 千社札—that depict Japanese ghosts and monsters—yōkai 妖怪. Both senjafuda and yōkai have their roots in Japanese popular culture in the early modern period (17th-19th centuries), and both continue to cast a spell on viewers today.
+This digital exhibition documents multiple community conversations with UO students, primarily students of color, and documents their experiences surrounding stereotyping with digital Spectrogram prints of their voices.
 
 This site was made using [oralhistoryasdata.github.io](https://oralhistoryasdata.github.io/).
 
