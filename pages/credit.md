@@ -1,22 +1,25 @@
 ---
 layout: page
-title: About 
+title: Credits 
 order: 1
-object-id: about
-permalink: /about.html
+object-id: credits
+permalink: /credits.html
+credits: true
 ---
-# About {{site.title}}
 
+{% include feature/nav-menu.html sections="About; Curatorial Statements; Acknowledgments; Copyright; Diversity, Inclusion, and Accessibility; Contact" %}
+
+### About
 *"I think it’s a very crucial time where we need to hear from the public and less about the public."*
 
 *- Hank Willis Thomas*
 
 Four years ago, the JSMA's Education department created an annual program to engage UO students in conversations about race, identity, representation, and misrepresentation. The goal was to provide students with a space to create art and engage in dialogue about their experiences and fears as they navigate their lives as young adults. The projects begin with a conversation, then integrating art production and writing as part of the process before the program culminates in an exhibition.
 
-This year's project, Hear My Voice, was led and curated by UO art students Kayla Lockwood (2022, ATCH BFA) Sam Berry (2023, PD BFA) and Malik Lovette (2024, M.Arch). The exhibition documents multiple community conversations with UO students, primarily students of color, and documents their experiences surrounding stereotyping with digital Spectrogram prints of their voices. The project team focused on empowering and representing each participants' authentic view of their identity with the critical and reflective dispositions that accompany their personal development.
+This year's project, Hear My Voice, was led and curated by UO art students [Kayla Lockwood (2022, ATCH BFA)](https://www.social-sin.com/), Sam Berry (2023, PD BFA) and [Malik Lovette (2024, M.Arch)](https://www.lifeofluhv.com/). The exhibition documents multiple community conversations with UO students, primarily students of color, and documents their experiences surrounding stereotyping with digital Spectrogram prints of their voices. The project team focused on empowering and representing each participants' authentic view of their identity with the critical and reflective dispositions that accompany their personal development.
 
 
-## Curatorial Statement
+### Curatorial Statements
 I was drawn to working with the JSMA for its contribution to the education of UO students by helping them become culturally competent global citizens. I was particularly drawn to the museum’s guiding principle of providing art education programs and collaborative opportunities to make the museum central to learning and building diverse audiences. I think this guiding principle is important to address as all academic institutions should be aware of their constituents and should engage in museum practices that allow access, inclusion, and representation of their constituents.  I see the Community Conversations program at the JSMA as a great opportunity for the student constituents to be involved in the development of a creative and vocalized student community within the institution. This type of programming is especially needed within academic museums as exhibitions and collections should reflect the academic interests of the institution it resides in as well as its student community by creating a space for student voices to be elevated and represented.
 
 From this experience of leading a series of workshops for student peers to openly express their voice and values, I found it to be important for students to engage in non-confrontational dialogue and artistic expression within a positive framework that fosters empathy and brings awareness of implicit biases. I also thought it was important to shift the exhibition’s focus to amplifying the literal voices of students as it was beneficial for students to practice vocal empowerment and to find their social and civic voices, allowing students to be recognized for beyond their academic achievements within the institution. 
@@ -27,11 +30,6 @@ I was also inspired to provide a steppingstone for future student-led exhibition
 
 ***- Kayla Lockwood, Lead Student Curator***
 
-
-### Acknowledgments
-*Thank you to the Cheryl and Allyn Ford Endowment and Cooling fund for supporting students to work on this project. Thank you to Sam Berry (2023, PD BFA) for assisting in the curation of this project. Thank you to Malik Lovette (2024, M.Arch) and Lisa Abia-Smith (JSMA Director of Education/Senior Instructor I) for being mentors and advisors for this project.*
-
-
 ### Hear My Voice: Creating Connections Through Conversations
 For the 4th year in a row, the JSMA has provided a series of workshops for UO students focusing on building community and engagement through the arts. These Community Conversations are held as a museum program and center around creating a space  
 
@@ -40,6 +38,22 @@ This year’s conversations were facilitated by Kayla Lockwood who has been on s
 This project represents the JSMA’s mission to create a space for students to connect with one another, to experience museums as agents of change and learn more about the world around us through the arts.
 
 ***- Lisa Abia-Smith, JSMA Director of Education/Senior Instructor I***
+
+### Acknowledgments
+*Thank you to the Cheryl and Allyn Ford Endowment Fund and the Anne Cooling Fund for supporting students to work on this project. Thank you to Sam Berry (2023, PD BFA) for assisting in the curation of this project. Thank you to Malik Lovette (2024, M.Arch) and Lisa Abia-Smith (JSMA Director of Education/Senior Instructor I) for being mentors and advisors for this project.*
+
+### Copyright
+The digital exhibition Hear My Voice is copyrighted by Kayla Lockwood and the University of Oregon under a [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) license. Individual items displayed in this digital exhibition may be subject to different copyrights; see item pages for attribution and licensing information.
+
+### Diversity, Inclusion, and Accessibility
+Tech Aesthetic is committed to providing a culturally inclusive environment where diversity of thought and expression is valued and respected.
+
+The Jordan Schnitzer Museum of Art is committed to making its collection, buildings, programs, and services accessible to all audiences. [Click to learn more about accessibility at the JSMA](https://jsma.uoregon.edu/Accessibility).
+
+### Contact
+Submit your comments or questions to [social.sin@outlook.com](mailto:social.sin@outlook.com).
+
+{% if page.credits == true %}{% include cb/credits.html %}{% endif %}
 
 
 
