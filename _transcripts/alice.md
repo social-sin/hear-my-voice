@@ -1,5 +1,5 @@
 ---
-object-id: mohammad
+object-id: alice
 title: Alice Finneran (She/Her), Art History, 2023
 date-interviewed: June 2022
 location: Eugene, OR
