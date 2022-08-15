@@ -1,6 +1,6 @@
 ---
 object-id: charis
-title: Charis Rieder (She/Her),Planning, Public Policy and Management, 2023
+title: Charis Rieder (She/Her), Planning, Public Policy and Management, 2023
 date-interviewed: June 2022
 location: Eugene, OR
 av_source: soundcloud
