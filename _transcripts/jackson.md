@@ -1,6 +1,6 @@
 ---
 object-id: jackson
-title: Jackson Mota (He/Him), Planning, Public Policy and Management, 2023
+title: Jackson Mota (He/Him), Planning, Public Policy & Management, 2023
 date-interviewed: June 2022
 location: Eugene, OR
 av_source: soundcloud
