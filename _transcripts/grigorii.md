@@ -1,6 +1,6 @@
 ---
 object-id: grigorii
-title: Grigorii Malakhov (He/Him), Planning, Public Policy and Management/Theatre Arts, 2024
+title: Grigorii Malakhov (He/Him), Planning, Public Policy & Management and Theatre Arts, 2024
 date-interviewed: June 2022
 location: Eugene, OR
 av_source: soundcloud
