@@ -1,6 +1,6 @@
 ---
 object-id: ben
-title: Ben Schoonover (He/Him), Human Physiology, 2021
+title: Ben Schoonover (He/Him), Human Physiology, 2022
 date-interviewed: June 2022
 location: Eugene, OR
 av_source: soundcloud
