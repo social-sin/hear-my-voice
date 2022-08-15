@@ -4,7 +4,7 @@ title: Caro (They/Them), Art & Technology, 2022
 date-interviewed: June 2022
 location: Eugene, OR
 av_source: soundcloud
-audiovideo-id: "social.sin/caro"
+audiovideo-id: "social-sin/caro"
 ---
 
 "I felt in touch with the energy inside my soul and spoke with that force driving me. Community is an integral part of life and I am thankful for the opportunity to share. I hope to inspire others to connect with those around them and really feel the energy that exists within every single one of us.
