@@ -1,6 +1,6 @@
 ---
 object-id: miles
-title: Miles Lawson (He/Him), Art & Technology, 2024
+title: Miles Lawson (He/Him), Art & Technology, 2022
 date-interviewed: June 2022
 location: Eugene, OR
 av_source: soundcloud
