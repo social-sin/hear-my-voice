@@ -1,5 +1,5 @@
 ---
-object-id: wrigley
+object-id: brit
 title: Brit Micho (She/Her), Art History (MA), 2023
 date-interviewed: June 2022
 location: Eugene, OR
