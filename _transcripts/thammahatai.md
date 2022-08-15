@@ -1,6 +1,6 @@
 ---
 object-id: thammahatai
-title: Thammahatai Lertwachara (They/Them), Art & Technology, 2024
+title: Thammahatai Lertwachara (They/Them), Art, 2023
 date-interviewed: June 2022
 location: Eugene, OR
 av_source: soundcloud
